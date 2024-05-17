@@ -2,7 +2,7 @@
 
 A dataset for tooth structured instance segmentation of dental panoramic X-ray.
 
-![What difference](dataset overview.jpg)
+![Introduction](dataset-overview.jpg)
 
 The difference between our dataset and common datasets
 
