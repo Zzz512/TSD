@@ -2,10 +2,6 @@
 
 A dataset for tooth structured instance segmentation of dental panoramic X-ray.
 
-![Introduction](dataset-overview.jpg)
-
-The difference between our dataset and common datasets
-
 ![Tooth Structured Instance Segmentation](dsis-dpr.gif)
 
 ## Download Link
